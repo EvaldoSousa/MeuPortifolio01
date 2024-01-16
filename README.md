@@ -1,4 +1,4 @@
-Portfólio Front-End
+Portfólio Front-End.
 Este é um projeto pessoal desenvolvido com o intuito de aprimorar minhas habilidades em front-end, utilizando apenas JavaScript, HTML, CSS e Bootstrap. 
 Este portfólio serve como uma vitrine digital para exibir um pouco do meu trabalho, experiências e habilidades.
 
